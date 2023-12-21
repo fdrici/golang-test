@@ -1,2 +1,2 @@
 # golang-test
-Some Golang test
+Some Golang tests
